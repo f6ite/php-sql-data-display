@@ -1,0 +1,594 @@
+﻿PrimKey,LANAME,SCHOOL NAME,STREET,TOWN,POSTCODE,SCHOOLTYPE,GENDER
+1,Hampshire,Alton Infant School,Normandy Street,Alton,GU34 1DH,Community school,Mixed
+2,Hampshire,Anstey Junior School,Eastbrooke Road,Alton,GU34 2DR,Community school,Mixed
+3,Hampshire,Balksbury Junior School,Floral Way,Andover,SP10 3QP,Community school,Mixed
+4,Hampshire,Portway Junior School,Upper Drove,Andover,SP10 3NA,Community school,Mixed
+5,Hampshire,Anton Junior School,Barlows Lane,Andover,SP10 2HA,Community school,Mixed
+6,Hampshire,Ashley Infant School,Lower Ashley Road,New Milton,BH25 5AA,Community school,Mixed
+7,Hampshire,Awbridge Primary School,Danes Road,Romsey,SO51 0HL,Community school,Mixed
+8,Hampshire,Portway Infant School,Ashfield Road,Andover,SP10 3PE,Community school,Mixed
+9,Hampshire,Winklebury Junior School,Willoughby Way,Basingstoke,RG23 8AF,Community school,Mixed
+10,Hampshire,Oakridge Infant School,Oakridge Road,Basingstoke,RG21 5RR,Community school,Mixed
+11,Hampshire,South View Junior School,Shooters Way,Basingstoke,RG21 5LL,Community school,Mixed
+12,Hampshire,Beaulieu Village Primary School,High Street,Brockenhurst,SO42 7YD,Community school,Mixed
+13,Hampshire,Stoke Park Infant School,Abbotsbury Road,Eastleigh,SO50 8NZ,Community school,Mixed
+14,Hampshire,Bishops Waltham Infant School,Oak Road,Southampton,SO32 1EP,Community school,Mixed
+15,Hampshire,Bordon Infant School,Budds Lane,Bordon,GU35 0JB,Community school,Mixed
+16,Hampshire,Braishfield Primary School,Common Hill Road,Romsey,SO51 0QF,Community school,Mixed
+17,Hampshire,Broughton Primary School,School Lane,Stockbridge,SO20 8AN,Community school,Mixed
+18,Hampshire,Burghclere Primary School,Church Lane,Newbury,RG20 9HT,Community school,Mixed
+19,Hampshire,Buriton Primary School,High Street,Petersfield,GU31 5RX,Community school,Mixed
+20,Hampshire,Burley Primary School,Church Lane,Ringwood,BH24 4AP,Community school,Mixed
+21,Hampshire,Stoke Park Junior School,Underwood Road,Eastleigh,SO50 6GR,Community school,Mixed
+22,Hampshire,Chandler's Ford Infant School,Kings Road,Eastleigh,SO53 2EY,Community school,Mixed
+23,Hampshire,Merdon Junior School,Merdon Avenue,Eastleigh,SO53 1EJ,Community school,Mixed
+24,Hampshire,Cheriton Primary School,Cheriton,Alresford,SO24 0QA,Community school,Mixed
+25,Hampshire,North Baddesley Infant School,Botley Road,Southampton,SO52 9EE,Community school,Mixed
+26,Hampshire,Clanfield Junior School,Little Hyden Lane,Waterlooville,PO8 0RE,Community school,Mixed
+27,Hampshire,Cliddesden Primary School,Cliddesden,Basingstoke,RG25 2QU,Community school,Mixed
+28,Hampshire,Crondall Primary School,Croft Lane,Farnham,GU10 5QG,Community school,Mixed
+29,Hampshire,Curdridge Primary School,Church Lane,Southampton,SO32 2DR,Community school,Mixed
+30,Hampshire,Crofton Anne Dale Junior School,Cuckoo Lane,Fareham,PO14 3PH,Community school,Mixed
+31,Hampshire,Droxford Junior School,Union Lane,Southampton,SO32 3QR,Community school,Mixed
+32,Hampshire,Denmead Infant School,Hambledon Road,Waterlooville,PO7 6PN,Community school,Mixed
+33,Hampshire,Wildground Junior School,Armitage Avenue,Southampton,SO45 4LG,Community school,Mixed
+34,Hampshire,Fryern Junior School,Oakmount Road,Eastleigh,SO53 2LN,Community school,Mixed
+35,Hampshire,Wildground Infant School,Crete Road,Southampton,SO45 4JX,Community school,Mixed
+36,Hampshire,The Crescent Primary School,Toynbee Road,Eastleigh,SO50 9DH,Community school,Mixed
+37,Hampshire,Cherbourg Primary School,Cherbourg Road,Eastleigh,SO50 5QF,Community school,Mixed
+38,Hampshire,Shakespeare Infant School,Shakespeare Road,Eastleigh,SO50 4FZ,Community school,Mixed
+39,Hampshire,Wallisdean Junior School,Wallisdean Avenue,Fareham,PO14 1HU,Community school,Mixed
+40,Hampshire,Uplands Primary School,Morshead Crescent,Fareham,PO16 7QP,Community school,Mixed
+41,Hampshire,Fair Oak Infant School,Botley Road,Eastleigh,SO50 7AN,Community school,Mixed
+42,Hampshire,Redlands Primary School,Redlands Lane,Fareham,PO16 0UD,Community school,Mixed
+43,Hampshire,Wallisdean Infant School,Wallisdean Avenue,Fareham,PO14 1HT,Community school,Mixed
+44,Hampshire,Grateley Primary School,Grateley,Andover,SP11 8JS,Community school,Mixed
+45,Hampshire,Greatham Primary School,Petersfield Road,Liss,GU33 6HA,Community school,Mixed
+46,Hampshire,Waterside Primary School,Ashford Crescent,Southampton,SO45 6ET,Community school,Mixed
+47,Hampshire,Hale Primary School,Hatchett Green,Fordingbridge,SP6 2NE,Community school,Mixed
+48,Hampshire,Hamble Primary School,Hamble Lane,Southampton,SO31 4ND,Community school,Mixed
+49,Hampshire,Hambledon Primary School,Church Lane,Waterlooville,PO7 4RT,Community school,Mixed
+50,Hampshire,Oakwood Infant School,Church Lane,Hook,RG27 8DY,Community school,Mixed
+51,Hampshire,Fairfield Infant School,Fairfield Road,Havant,PO9 1AY,Community school,Mixed
+52,Hampshire,Riders Junior School,Kingsclere Avenue,Havant,PO9 4RY,Community school,Mixed
+53,Hampshire,Riders Infant School,Kingsclere Avenue,Havant,PO9 4RY,Community school,Mixed
+54,Hampshire,Trosnant Junior School,Stockheath Lane,Havant,PO9 3BD,Community school,Mixed
+55,Hampshire,Trosnant Infant School,Stockheath Lane,Havant,PO9 3BD,Community school,Mixed
+56,Hampshire,Hawley Primary School,Hawley Road,Camberley,GU17 9BH,Community school,Mixed
+57,Hampshire,Mill Rythe Junior School,Havant Road,Hayling Island,PO11 0PA,Community school,Mixed
+58,Hampshire,Tiptoe Primary School,Wootton Road,Lymington,SO41 6FU,Community school,Mixed
+59,Hampshire,Hythe Primary School,School Road,Southampton,SO45 6BL,Community school,Mixed
+60,Hampshire,Freegrounds Infant School,Hobb Lane,Southampton,SO30 0GG,Community school,Mixed
+61,Hampshire,Bosmere Junior School,South Street,Havant,PO9 1DA,Community school,Mixed
+62,Hampshire,Itchen Abbas Primary School,School Lane,Winchester,SO21 1BE,Community school,Mixed
+63,Hampshire,Ashford Hill Primary School,Ashford Hill Road,THATCHAM,RG19 8BB,Community school,Mixed
+64,Hampshire,Kings Worthy Primary School,Church Lane,Winchester,SO23 7QS,Community school,Mixed
+65,Hampshire,Langrish Primary School,Ramsdean Road,Petersfield,GU32 3PJ,Community school,Mixed
+66,Hampshire,Liss Junior School,Hillbrow Road,Liss,GU33 7LQ,Community school,Mixed
+67,Hampshire,Locks Heath Junior School,Warsash Road,Southampton,SO31 9NZ,Community school,Mixed
+68,Hampshire,New Milton Infant School,Lymington Road,New Milton,BH25 6PZ,Community school,Mixed
+69,Hampshire,New Milton Junior School,Old Milton Road,New Milton,BH25 6DS,Community school,Mixed
+70,Hampshire,Newtown Soberton Infant School,Church Road,Fareham,PO17 6LJ,Community school,Mixed
+71,Hampshire,North Waltham Primary School,Church Road,Basingstoke,RG25 2BL,Community school,Mixed
+72,Hampshire,Buryfields Infant School,Buryfields,Hook,RG29 1NE,Community school,Mixed
+73,Hampshire,Owslebury Primary School,Beech Grove,Winchester,SO21 1LS,Community school,Mixed
+74,Hampshire,Northern Junior School,Richmond Rise,Fareham,PO16 8DG,Community school,Mixed
+75,Hampshire,Petersfield Infant School,St Peter's Road,Petersfield,GU32 3HX,Community school,Mixed
+76,Hampshire,Purbrook Infant School,Aldermoor Road East,Waterlooville,PO7 5NQ,Community school,Mixed
+77,Hampshire,Wicor Primary School,Hatherley Crescent,Fareham,PO16 9DL,Community school,Mixed
+78,Hampshire,Springwood Infant School,Springwood Avenue,Waterlooville,PO7 8ED,Community school,Mixed
+79,Hampshire,Herne Junior School,Love Lane,Petersfield,GU31 4BP,Community school,Mixed
+80,Hampshire,Ringwood Junior School,Hightown Road,Ringwood,BH24 1NH,Community school,Mixed
+81,Hampshire,Cupernham Junior School,Bransley Close,Romsey,SO51 7JT,Community school,Mixed
+82,Hampshire,St Mary Bourne Primary School,School Lane,Andover,SP11 6AU,Community school,Mixed
+83,Hampshire,Sheet Primary School,School Lane,Petersfield,GU32 2AS,Community school,Mixed
+84,Hampshire,Shipton Bellinger Primary School,3 Parkhouse Road,Tidworth,SP9 7TW,Community school,Mixed
+85,Hampshire,Sopley Primary School,South Ripley,Christchurch,BH23 8ET,Community school,Mixed
+86,Hampshire,Stockbridge Primary & Pre-School,Old London Road,Stockbridge,SO20 6EJ,Community school,Mixed
+87,Hampshire,Tadley Community Primary School,The Green,Tadley,RG26 3PB,Community school,Mixed
+88,Hampshire,Titchfield Primary School,Southampton Road,Fareham,PO14 4AU,Community school,Mixed
+89,Hampshire,Lydlynch Infant School,"Lydlynch Road,",Southampton,SO40 3DW,Community school,Mixed
+90,Hampshire,Eling Infant School and Nursery,School Road,Southampton,SO40 9HX,Community school,Mixed
+91,Hampshire,Foxhills Junior School,Foxhills,Southampton,SO40 7ED,Community school,Mixed
+92,Hampshire,Wallop Primary School,School Lane,Stockbridge,SO20 8EH,Community school,Mixed
+93,Hampshire,Wellow School,Romsey Road,Romsey,SO51 6BG,Community school,Mixed
+94,Hampshire,Wherwell Primary School,Wherwell,Andover,SP11 7JP,Community school,Mixed
+95,Hampshire,Stanmore Primary School,Stanmore Lane,Winchester,SO22 4AJ,Community school,Mixed
+96,Hampshire,Winnall Primary School,Garbett Road,Winchester,SO23 0NY,Community school,Mixed
+97,Hampshire,Padnell Junior School,Padnell Road,Waterlooville,PO8 8EA,Community school,Mixed
+98,Hampshire,Padnell Infant School,Padnell Avenue,Waterlooville,PO8 8DS,Community school,Mixed
+99,Hampshire,Hart Plain Infant School,Hart Plain Avenue,Waterlooville,PO8 8RZ,Community school,Mixed
+100,Hampshire,Crofton Anne Dale Infant School,Cuckoo Lane,Fareham,PO14 3PH,Community school,Mixed
+101,Hampshire,Fryern Infant School,Oakmount Road,Eastleigh,SO53 2LN,Community school,Mixed
+102,Hampshire,Vigo Primary School,Vigo Road,Andover,SP10 1JZ,Community school,Mixed
+103,Hampshire,Winklebury Infant School,Willoughby Way,Basingstoke,RG23 8AF,Community school,Mixed
+104,Hampshire,Shamblehurst Primary School,Wildern Lane,Southampton,SO30 4EJ,Community school,Mixed
+105,Hampshire,Anton Infant School,Wellesley Road,Andover,SP10 2HF,Community school,Mixed
+106,Hampshire,Oakridge Junior School,Oakridge Road,Basingstoke,RG21 5RR,Community school,Mixed
+107,Hampshire,South View Infant and Nursery School,Off Shooters Way,Basingstoke,RG21 5LL,Community school,Mixed
+108,Hampshire,Church Crookham Junior School,Tweseldown Road,Fleet,GU52 8BW,Community school,Mixed
+109,Hampshire,Orchard Infant School,Water Lane,Southampton,SO45 4SB,Community school,Mixed
+110,Hampshire,Hiltingbury Infant School,Off Hiltingbury Road,Eastleigh,SO53 5NP,Community school,Mixed
+111,Hampshire,Frogmore Infant School,Green Lane,Camberley,GU17 0NY,Community school,Mixed
+112,Hampshire,Horndean Infant School,Merchistoun Road,Waterlooville,PO8 9LS,Community school,Mixed
+113,Hampshire,Pennington Infant School,Priestlands Road,Lymington,SO41 8HX,Community school,Mixed
+114,Hampshire,Westfields Junior School,School Lane,Yateley,GU46 6NN,Community school,Mixed
+115,Hampshire,Wootey Infant School,Wooteys Way,Alton,GU34 2JA,Community school,Mixed
+116,Hampshire,Mengham Infant School,St Mary's Road,Hayling Island,PO11 9DD,Community school,Mixed
+117,Hampshire,Orchard Junior School,Water Lane,Southampton,SO45 4SB,Community school,Mixed
+118,Hampshire,Locks Heath Infant School,Warsash Road,Southampton,SO31 9NZ,Community school,Mixed
+119,Hampshire,Harrison Primary School,Harrison Road,Fareham,PO16 7EQ,Community school,Mixed
+120,Hampshire,Warren Park Primary School,Sandleford Road,Havant,PO9 4LR,Foundation school,Mixed
+121,Hampshire,Sun Hill Infant School,Sun Lane,Alresford,SO24 9NB,Community school,Mixed
+122,Hampshire,Oakfield Primary School,Sylvia Crescent,Southampton,SO40 3LN,Community school,Mixed
+123,Hampshire,Westfields Infant School,School Lane,Yateley,GU46 6NN,Community school,Mixed
+124,Hampshire,Fair Oak Junior School,Botley Road,Eastleigh,SO50 7AN,Community school,Mixed
+125,Hampshire,North Baddesley Junior School,Fleming Avenue,Southampton,SO52 9EP,Community school,Mixed
+126,Hampshire,Poulner Junior School,North Poulner Road,Ringwood,BH24 3LA,Community school,Mixed
+127,Hampshire,Freegrounds Junior School,Hobb Lane,Southampton,SO30 0GG,Community school,Mixed
+128,Hampshire,Merton Junior School,Romsey Close,Basingstoke,RG24 9HB,Community school,Mixed
+129,Hampshire,Heatherside Infant School,Reading Road South,Fleet,GU52 7TH,Community school,Mixed
+130,Hampshire,Fleet Infant School,Velmead Road,Fleet,GU52 7LQ,Community school,Mixed
+131,Hampshire,Merton Infant School,Romsey Close,Basingstoke,RG24 9HB,Community school,Mixed
+132,Hampshire,Castle Hill Primary School,Winklebury Way,Basingstoke,RG23 8BN,Community school,Mixed
+133,Hampshire,Bishop's Waltham Junior School,Oak Road,Southampton,SO32 1EP,Community school,Mixed
+134,Hampshire,Hiltingbury Junior School,Hiltingbury Road,Eastleigh,SO53 5NP,Community school,Mixed
+135,Hampshire,Crofton Hammond Infant School,Mancroft Avenue,Fareham,PO14 2DE,Community school,Mixed
+136,Hampshire,Heatherside Junior School,Reading Road South,Fleet,GU52 7TH,Community school,Mixed
+137,Hampshire,Sarisbury Infant School,Barnes Lane,Southampton,SO31 7BJ,Community school,Mixed
+138,Hampshire,Bishopswood Junior School,Barlows Road,Tadley,RG26 3NA,Community school,Mixed
+139,Hampshire,Knight's Enham Junior School,King Arthur's Way,Andover,SP10 4BS,Community school,Mixed
+140,Hampshire,Manor Field Junior School,Haydn Road,Basingstoke,RG22 4DH,Community school,Mixed
+141,Hampshire,Kempshott Junior School,Old Down Close,Basingstoke,RG22 5LL,Community school,Mixed
+142,Hampshire,Marnel Junior School,Shetland Road,Basingstoke,RG24 9PT,Community school,Mixed
+143,Hampshire,Weyford Nursery and Primary School,Weyford Nursery and Primary School,Bordon,GU35 0ET,Community school,Mixed
+144,Hampshire,Ranvilles Junior School,Oldbury Way,Fareham,PO14 3BN,Community school,Mixed
+145,Hampshire,Tweseldown Infant School,Nepal Gardens,Fleet,GU52 8LL,Community school,Mixed
+146,Hampshire,Liss Infant School,Hillbrow Road,Liss,GU33 7LQ,Community school,Mixed
+147,Hampshire,Purbrook Junior School,Aldermoor Road East,Waterlooville,PO7 5NQ,Community school,Mixed
+148,Hampshire,Marnel Community Infant School,Shetland Road,Basingstoke,RG24 9PT,Community school,Mixed
+149,Hampshire,Foxhills Infant School,Foxhills,Southampton,SO40 7ED,Community school,Mixed
+150,Hampshire,The Butts Primary School,Bolle Road,Alton,GU34 1PW,Community school,Mixed
+151,Hampshire,Knights Enham Nursery and Infant School,King Arthurs Way,Andover,SP10 4BS,Community school,Mixed
+152,Hampshire,Bursledon Junior School(CA),Long Lane,Southampton,SO31 8BZ,Community school,Mixed
+153,Hampshire,Ranvilles Infant School,Oldbury Way,Fareham,PO14 3BN,Community school,Mixed
+154,Hampshire,Northern Infant School,Richmond Rise,Fareham,PO16 8DG,Community school,Mixed
+155,Hampshire,Poulner Infant School,North Poulner Road,Ringwood,BH24 3LA,Community school,Mixed
+156,Hampshire,Halterworth Community Primary School,Halterworth Lane,Romsey,SO51 9AD,Community school,Mixed
+157,Hampshire,Park Gate Primary School,Northmore Road,Southampton,SO31 6LX,Community school,Mixed
+158,Hampshire,South Wonston Primary School,Downs Road,Winchester,SO21 3EH,Community school,Mixed
+159,Hampshire,Bishopswood Infant School,Barlows Road,Tadley,RG26 3NA,Community school,Mixed
+160,Hampshire,Kempshott Infant School,Old Down Close,Basingstoke,RG22 5LL,Community school,Mixed
+161,Hampshire,Wootey Junior School,Wooteys Way,Alton,GU34 2JA,Community school,Mixed
+162,Hampshire,Roman Way Primary School,Roman Way,Andover,SP10 5JY,Community school,Mixed
+163,Hampshire,Old Basing Infant School,Milkingpen Lane,Basingstoke,RG24 7DL,Community school,Mixed
+164,Hampshire,Rucstall Primary School,Holbein Close,Basingstoke,RG21 3EX,Community school,Mixed
+165,Hampshire,Castle Hill Infant School,Greenbank,Basingstoke,RG23 8BN,Community school,Mixed
+166,Hampshire,Scantabout Primary School,Ionic Close,Eastleigh,SO53 2NR,Community school,Mixed
+167,Hampshire,Denmead Junior School,Bere Road,Waterlooville,PO7 6PH,Community school,Mixed
+168,Hampshire,Tavistock Infant School,Broadacres,Fleet,GU51 4EB,Community school,Mixed
+169,Hampshire,Hook Junior School,Ravenscroft,Hook,RG27 9NN,Community school,Mixed
+170,Hampshire,Olivers Battery Primary School,Austen Avenue,Winchester,SO22 4HP,Community school,Mixed
+171,Hampshire,Oakley Infant School,Oakley Lane,Basingstoke,RG23 7JZ,Community school,Mixed
+172,Hampshire,Cupernham Infant School,Bransley Close,Romsey,SO51 7JT,Community school,Mixed
+173,Hampshire,Calmore Infant School,Calmore Drive,Southampton,SO40 2ZZ,Community school,Mixed
+174,Hampshire,Lymington Junior School,Avenue Road,Lymington,SO41 9GP,Community school,Mixed
+175,Hampshire,Mengham Junior School,Palmerston Road,Hayling Island,PO11 9ET,Community school,Mixed
+176,Hampshire,Bidbury Junior School,Fraser Road,Havant,PO9 3EF,Community school,Mixed
+177,Hampshire,Velmead Junior School,Velmead Road,Fleet,GU52 7LG,Community school,Mixed
+178,Hampshire,Manor Field Infant School,Haydn Road,Basingstoke,RG22 4DH,Community school,Mixed
+179,Hampshire,Liphook Infant School,Avenue Close,Liphook,GU30 7QE,Community school,Mixed
+180,Hampshire,Chalk Ridge Primary School,Sullivan Road,Basingstoke,RG22 4ER,Community school,Mixed
+181,Hampshire,Crofton Hammond Junior School,Mancroft Avenue,Fareham,PO14 2DE,Community school,Mixed
+182,Hampshire,Potley Hill Primary School,Potley Hill Road,Yateley,GU46 6AG,Community school,Mixed
+183,Hampshire,Kings Copse Primary School,Kings Copse Road,Southampton,SO30 0PQ,Community school,Mixed
+184,Hampshire,Netley Abbey Junior School,Westwood Road,Southampton,SO31 5EL,Community school,Mixed
+185,Hampshire,Balksbury Infant School,Floral Way,Andover,SP10 3QP,Community school,Mixed
+186,Hampshire,Petersgate Infant School,Green Lane,Waterlooville,PO8 0JU,Community school,Mixed
+187,Hampshire,Springwood Junior School,Springwood Avenue,Waterlooville,PO7 8ED,Community school,Mixed
+188,Hampshire,Fordingbridge Junior School,Pennys Lane,Fordingbridge,SP6 1HJ,Community school,Mixed
+189,Hampshire,Fordingbridge Infant School,Pennys Lane,Fordingbridge,SP6 1HJ,Community school,Mixed
+190,Hampshire,Netley Abbey Infant School,Westwood Road,Southampton,SO31 5EL,Community school,Mixed
+191,Hampshire,Greenfields Junior School,Green Lane,Hook,RG27 8DQ,Community school,Mixed
+192,Hampshire,Shakespeare Junior School,St Catherine's Road,Eastleigh,SO50 4JT,Community school,Mixed
+193,Hampshire,Marchwood Junior School,Main Road,Southampton,SO40 4ZH,Community school,Mixed
+194,Hampshire,Colden Common Primary School,Upper Moors Road,Eastleigh,SO50 6HW,Community school,Mixed
+195,Hampshire,Mayhill Junior School,The Bury,Hook,RG29 1NB,Community school,Mixed
+196,Hampshire,Woolton Hill Junior School,Woolton Hill,Newbury,RG20 9XE,Community school,Mixed
+197,Hampshire,Norwood Primary School,Chamberlayne Road,Eastleigh,SO50 5JL,Community school,Mixed
+198,Hampshire,Red Barn Community Primary School,Linden Lea,Fareham,PO16 8HJ,Community school,Mixed
+199,Hampshire,Newlands Primary School,Dungells Lane,Yateley,GU46 6EY,Community school,Mixed
+200,Hampshire,Four Lanes Infant School,Hanmore Road,Basingstoke,RG24 8PQ,Community school,Mixed
+201,Hampshire,Castle Primary School,Castle Street,Fareham,PO16 9QQ,Community school,Mixed
+202,Hampshire,Bidbury Infant School,Fraser Road,Havant,PO9 3EF,Community school,Mixed
+203,Hampshire,Hatch Warren Infant School,Gershwin Road,Basingstoke,RG22 4PQ,Community school,Mixed
+204,Hampshire,Cove Junior School,Fernhill Road,Farnborough,GU14 9SA,Community school,Mixed
+205,Hampshire,Cove Infant School,92 Fernhill Road,Farnborough,GU14 9DP,Community school,Mixed
+206,Hampshire,Tower Hill Primary School,Fowler Road,Farnborough,GU14 0BW,Community school,Mixed
+207,Hampshire,Marlborough Infant School,Redvers Buller Road,Aldershot,GU11 2HR,Community school,Mixed
+208,Hampshire,South Farnborough Infant School,Queen's Road,Farnborough,GU14 6JU,Community school,Mixed
+209,Hampshire,North Farnborough Infant School,Rectory Road,Farnborough,GU14 8AJ,Community school,Mixed
+210,Hampshire,Manor Junior School,Fernhill Road,Farnborough,GU14 9DX,Community school,Mixed
+211,Hampshire,Grange Community Junior School,Wren Way,Farnborough,GU14 8TA,Community school,Mixed
+212,Hampshire,Talavera Junior School,Gun Hill,Aldershot,GU11 1RG,Community school,Mixed
+213,Hampshire,Manor Infant School,Fernhill Road,Farnborough,GU14 9DX,Community school,Mixed
+214,Hampshire,Talavera Infant School,Gun Hill,Aldershot,GU11 1RG,Community school,Mixed
+215,Hampshire,Parsonage Farm Nursery and Infant School,Cherry Tree Close,Farnborough,GU14 9TT,Community school,Mixed
+216,Hampshire,South Farnborough Junior School,Cunnington Road,Farnborough,GU14 6PL,Community school,Mixed
+217,Hampshire,Guillemont Junior School,Sandy Lane,Farnborough,GU14 9ES,Community school,Mixed
+218,Hampshire,Pinewood Infant School,Pinewood Park,Farnborough,GU14 9LE,Community school,Mixed
+219,Hampshire,Elson Junior School,Exmouth Road,Gosport,PO12 4EX,Community school,Mixed
+220,Hampshire,Elson Infant School,Elson Lane,Gosport,PO12 4EU,Community school,Mixed
+221,Hampshire,Lee-on-the-Solent Junior School,Salisbury Terrace,Lee-on-the-Solent,PO13 9DL,Community school,Mixed
+222,Hampshire,Haselworth Primary School,Stone Lane,Gosport,PO12 1SQ,Community school,Mixed
+223,Hampshire,Woodcot Primary School,Tukes Avenue,Gosport,PO13 0SG,Community school,Mixed
+224,Hampshire,Rowner Infant School,Copse Lane,Gosport,PO13 0DH,Community school,Mixed
+225,Hampshire,Alverstoke Community Infant School,Ashburton Road,Gosport,PO12 2LH,Community school,Mixed
+226,Hampshire,Grange Junior School,"Grange Junior School, Franklin Road",Gosport,PO13 9TS,Community school,Mixed
+227,Hampshire,Grange Infant School,Franklin Road,Gosport,PO13 9TS,Community school,Mixed
+228,Hampshire,Alver Valley Junior School,21 Falcon Meadows Way,Gosport,PO13 8AA,Community school,Mixed
+229,Hampshire,Peel Common Infant School and Nursery Unit,The Drive,Gosport,PO13 0QD,Community school,Mixed
+230,Hampshire,Alver Valley Infant and Nursery School,21 Falcon Meadows Way,Gosport,PO13 8AA,Community school,Mixed
+231,Hampshire,Peel Common Junior School,The Drive,Gosport,PO13 0QD,Community school,Mixed
+232,Hampshire,Gomer Infant School,Pyrford Close,Gosport,PO12 2RP,Community school,Mixed
+233,Hampshire,Brockhurst Primary School,Avery Lane,Gosport,PO12 4SL,Community school,Mixed
+234,Hampshire,Lee-On-the-Solent Infant and Nursery School,Elmore Road,Lee-on-the-Solent,PO13 9DY,Community school,Mixed
+235,Hampshire,Orchard Lea Infant School,Kennedy Avenue,Fareham,PO15 6BJ,Community school,Mixed
+236,Hampshire,Orchard Lea Junior School,Kennedy Avenue,Fareham,PO15 6BJ,Community school,Mixed
+237,Hampshire,Hook Infant School,Church View,Hook,RG27 9NR,Community school,Mixed
+238,Hampshire,King's Furlong Infant School and Nursery,Upper Chestnut Drive,Basingstoke,RG21 8YJ,Community school,Mixed
+239,Hampshire,Kings Furlong Junior School,Upper Chestnut Drive,Basingstoke,RG21 8YJ,Community school,Mixed
+240,Hampshire,Fairfields Primary School,Council Road,Basingstoke,RG21 3DH,Community school,Mixed
+241,Hampshire,Park Primary School,Gloucester Road,Aldershot,GU11 3SL,Community school,Mixed
+242,Hampshire,Alderwood School,Belle Vue Road,Aldershot,GU12 4RZ,Community school,Mixed
+243,Hampshire,Park View Primary School,Pinkerton Road,Basingstoke,RG22 6RT,Community school,Mixed
+244,Hampshire,Fernhill Primary School,Field Road,Farnborough,GU14 9FX,Community school,Mixed
+245,Hampshire,Harestock Primary School,Bramshaw Close,Winchester,SO22 6LU,Community school,Mixed
+246,Hampshire,Weeke Primary School,Stoney Lane,Winchester,SO22 6DR,Community school,Mixed
+247,Hampshire,Hazel Wood Infant School,Hazel Farm Road,Southampton,SO40 8WU,Community school,Mixed
+248,Hampshire,Hart Plain Junior School,Hart Plain Avenue,Waterlooville,PO8 8SA,Community school,Mixed
+249,Hampshire,Southwood Infant School,Southwood Lane,Farnborough,GU14 0NE,Community school,Mixed
+250,Hampshire,Four Lanes Community Junior School,Hanmore Road,Basingstoke,RG24 8PQ,Community school,Mixed
+251,Hampshire,Queen's Inclosure Primary School,Cornelius Drive,Waterlooville,PO7 8NT,Community school,Mixed
+252,Hampshire,Berrywood Primary School,Maunsell Way,Southampton,SO30 2TL,Community school,Mixed
+253,Hampshire,Woodlea Primary School,Atholl Road,Bordon,GU35 9QX,Community school,Mixed
+254,Hampshire,Hatch Warren Junior School,Gershwin Road,Basingstoke,RG22 4PQ,Community school,Mixed
+255,Hampshire,Nightingale Primary School,Blackbird Road,Eastleigh,SO50 9JW,Community school,Mixed
+256,Hampshire,Emsworth Primary School,Victoria Road,Emsworth,PO10 7LX,Community school,Mixed
+257,Hampshire,Morelands Primary School,Crookhorn Lane,Waterlooville,PO7 5QL,Community school,Mixed
+258,Hampshire,Abbotts Ann Church of England Primary School,Duck Street,Andover,SP11 7FE,Voluntary controlled school,Mixed
+259,Hampshire,Saint Lawrence Church of England Primary School,Amery Hill,Alton,GU34 2BY,Voluntary controlled school,Mixed
+260,Hampshire,Ampfield Church of England Primary School,Knapp Lane,Romsey,SO51 9BT,Voluntary controlled school,Mixed
+261,Hampshire,Andover Church of England Primary School,East Street,Andover,SP10 1EP,Voluntary controlled school,Mixed
+262,Hampshire,Barton Stacey Church of England Primary School,The Green,Winchester,SO21 3RY,Voluntary controlled school,Mixed
+263,Hampshire,Binsted Church of England Primary School,Church Street,Alton,GU34 4NX,Voluntary controlled school,Mixed
+264,Hampshire,Botley Church of England Controlled Primary School,52 High Street,Southampton,SO30 2EA,Voluntary controlled school,Mixed
+265,Hampshire,Breamore Church of England Primary School,Salisbury Road,Fordingbridge,SP6 2EF,Voluntary controlled school,Mixed
+266,Hampshire,Brockenhurst Church of England Primary School,Sway Road,Brockenhurst,SO42 7RX,Voluntary controlled school,Mixed
+267,Hampshire,Bursledon Church of England Infant School,Long Lane,Southampton,SO31 8BZ,Voluntary controlled school,Mixed
+268,Hampshire,Bramley Church of England Primary School,Bramley Lane,Tadley,RG26 5AH,Voluntary controlled school,Mixed
+269,Hampshire,Bentley Church of England Primary School,School Lane,Farnham,GU10 5JP,Voluntary controlled school,Mixed
+270,Hampshire,Catherington Church of England Infant School,316 Catherington Lane,Waterlooville,PO8 0TD,Voluntary controlled school,Mixed
+271,Hampshire,Chawton Church of England Primary School,Chawton,Alton,GU34 1SG,Voluntary controlled school,Mixed
+272,Hampshire,Copythorne CofE Infant School,Romsey Road,Southampton,SO40 2PB,Voluntary controlled school,Mixed
+273,Hampshire,Durley Church of England Controlled Primary School,Durley Brook Road,Southampton,SO32 2AR,Voluntary controlled school,Mixed
+274,Hampshire,East Meon Church of England Controlled Primary School,Chapel Street,Petersfield,GU32 1NR,Voluntary controlled school,Mixed
+275,Hampshire,Ecchinswell and Sydmonton Church of England Primary School,Ecchinswell,Newbury,RG20 4UA,Voluntary controlled school,Mixed
+276,Hampshire,St James Church of England Controlled Primary School,Bellevue Lane,Emsworth,PO10 7PX,Voluntary controlled school,Mixed
+277,Hampshire,Four Marks Church of England Primary School,Five Lanes End,Alton,GU34 5AS,Voluntary controlled school,Mixed
+278,Hampshire,Froxfield Church of England Primary and Pre-School,High Cross,Petersfield,GU32 1EG,Voluntary controlled school,Mixed
+279,Hampshire,Grayshott Church of England Controlled Primary School,School Road,Hindhead,GU26 6LR,Voluntary controlled school,Mixed
+280,Hampshire,Horndean Church of England Junior School,Five Heads Road,Waterlooville,PO8 9NW,Voluntary controlled school,Mixed
+281,Hampshire,Hurstbourne Tarrant Church of England Primary School,Church Street,Andover,SP11 0AX,Voluntary controlled school,Mixed
+282,Hampshire,Hyde Church of England Primary School,Hyde,Fordingbridge,SP6 2QL,Voluntary controlled school,Mixed
+283,Hampshire,Kingsclere Church of England Primary School,Ash Grove,Newbury,RG20 5RE,Voluntary controlled school,Mixed
+284,Hampshire,King's Somborne Church of England Primary School,Romsey Road,Stockbridge,SO20 6PN,Voluntary controlled school,Mixed
+285,Hampshire,St John the Baptist Church of England Primary School,Abshot Road,Fareham,PO14 4NH,Voluntary controlled school,Mixed
+286,Hampshire,Long Sutton Church of England Primary School,Hyde Road,Hook,RG29 1ST,Voluntary controlled school,Mixed
+287,Hampshire,Marchwood Church of England Infant School,Twiggs Lane,Southampton,SO40 4ZE,Voluntary controlled school,Mixed
+288,Hampshire,Medstead Church of England Primary School,Roedowns Road,Alton,GU34 5LG,Voluntary controlled school,Mixed
+289,Hampshire,Meonstoke Church of England Infant School,Chapel Road,Meonstoke,SO32 3NJ,Voluntary controlled school,Mixed
+290,Hampshire,Netley Marsh Church of England Infant School,Ringwood Road,Southampton,SO40 7GY,Voluntary controlled school,Mixed
+291,Hampshire,Nursling Church of England Primary School,Nursling Street,Southampton,SO16 0XH,Voluntary controlled school,Mixed
+292,Hampshire,Otterbourne Church of England Primary School,Main Road,Winchester,SO21 2EQ,Voluntary controlled school,Mixed
+293,Hampshire,Overton Church of England Primary School,Court Drove,Basingstoke,RG25 3ES,Voluntary controlled school,Mixed
+294,Hampshire,Oakley Church of England Junior School,Oakley Lane,Basingstoke,RG23 7JZ,Voluntary controlled school,Mixed
+295,Hampshire,Pennington Church of England Junior School,Priestlands Road,Lymington,SO41 8HX,Voluntary controlled school,Mixed
+296,Hampshire,Preston Candover Church of England Primary School,Preston Candover,Basingstoke,RG25 2EE,Voluntary controlled school,Mixed
+297,Hampshire,Ringwood Church of England Infant School,School Lane,Ringwood,BH24 1LG,Voluntary controlled school,Mixed
+298,Hampshire,Rowlands Castle St John's Church of England Controlled Primary School,Whichers Gate Road,Rowland's Castle,PO9 6BB,Voluntary controlled school,Mixed
+299,Hampshire,Rownhams St John's Church of England Primary School,Bakers Drove,Southampton,SO16 8AD,Voluntary controlled school,Mixed
+300,Hampshire,Ropley CofE Primary School,Church Street,Ropley,SO24 0DS,Voluntary controlled school,Mixed
+301,Hampshire,Sarisbury Church of England Junior School,Allotment Road,Southampton,SO31 7AP,Voluntary controlled school,Mixed
+302,Hampshire,St John the Baptist Church of England Primary School,Solomons Lane,Southampton,SO32 2LY,Voluntary controlled school,Mixed
+303,Hampshire,Sherborne St John Church of England Primary School,Church Lane,Basingstoke,RG24 9HT,Voluntary controlled school,Mixed
+304,Hampshire,South Baddesley Church of England Primary School,South Baddesley,Lymington,SO41 5RP,Voluntary controlled school,Mixed
+305,Hampshire,Sparsholt Church of England Primary School,Woodman Lane,Winchester,SO21 2NR,Voluntary controlled school,Mixed
+306,Hampshire,St Luke's Church of England Primary School,West Beams Road,Lymington,SO41 6AE,Voluntary controlled school,Mixed
+307,Hampshire,Steep Church of England Voluntary Controlled Primary School,95 Church Road,Petersfield,GU32 2DE,Voluntary controlled school,Mixed
+308,Hampshire,Twyford St Mary's Church of England Primary School,School Road,Winchester,SO21 1QQ,Voluntary controlled school,Mixed
+309,Hampshire,Vernham Dean Gillum's Church of England Primary School,Vernham Dean,Andover,SP11 0JY,Voluntary controlled school,Mixed
+310,Hampshire,West Meon Church of England Voluntary Controlled Primary School,Church Lane,Petersfield,GU32 1LF,Voluntary controlled school,Mixed
+311,Hampshire,West Tytherley Church of England Primary School,West Tytherley,Salisbury,SP5 1JX,Voluntary controlled school,Mixed
+312,Hampshire,Whitchurch Church of England Primary School,Daniel Road,Whitchurch,RG28 7LS,Voluntary controlled school,Mixed
+313,Hampshire,Wickham Church of England Primary School,Buddens Road,Fareham,PO17 5HU,Voluntary controlled school,Mixed
+314,Hampshire,All Saints Church of England Primary School,St Catherine's Road,Winchester,SO23 0PS,Voluntary controlled school,Mixed
+315,Hampshire,Western Church of England Primary School,Browning Drive,Winchester,SO22 5AR,Voluntary controlled school,Mixed
+316,Hampshire,"St Thomas' Church of England Infant School, Woolton Hill",Woolton Hill,Newbury,RG20 9XF,Voluntary controlled school,Mixed
+317,Hampshire,St Bede Church of England Primary School,Gordon Road,Winchester,SO23 7DD,Voluntary controlled school,Mixed
+318,Hampshire,Liphook Church of England Controlled Junior School,Avenue Close,Liphook,GU30 7QE,Voluntary controlled school,Mixed
+319,Hampshire,Saint James' Church of England Primary School,Moorgreen Road,Southampton,SO30 3EG,Voluntary controlled school,Mixed
+320,Hampshire,St Michael's Church of England Controlled Infant School,Park Road,Aldershot,GU11 3PU,Voluntary controlled school,Mixed
+321,Hampshire,St Michael's Church of England Controlled Junior School,Church Lane East,Aldershot,GU11 3SS,Voluntary controlled school,Mixed
+322,Hampshire,Leesland Church of England Controlled Junior School,Gordon Road,Gosport,PO12 3QF,Voluntary controlled school,Mixed
+323,Hampshire,Leesland Church of England Controlled Infant School,Whitworth Road,Gosport,PO12 3NL,Voluntary controlled school,Mixed
+324,Hampshire,Newtown Church of England Voluntary Controlled Primary School,Queen's Road,Gosport,PO12 1JD,Voluntary controlled school,Mixed
+325,Hampshire,Rowledge Church of England Controlled Primary School,School Road,Farnham,GU10 4BW,Voluntary controlled school,Mixed
+326,Hampshire,Bartley Church of England Junior School,Winsor Road,Southampton,SO40 2HR,Voluntary controlled school,Mixed
+327,Hampshire,Whitewater Church of England Primary School,The Street,Hook,RG27 9BG,Voluntary controlled school,Mixed
+328,Hampshire,Amport Church of England Primary School,The Green,Andover,SP11 8BA,Voluntary aided school,Mixed
+329,Hampshire,Appleshaw St Peter's CofE Primary School,Ragged Appleshaw,Andover,SP11 9HR,Voluntary aided school,Mixed
+330,Hampshire,St Mary's Church of England Voluntary Aided Junior School,Belle Vue Road,Basingstoke,RG24 7DE,Voluntary aided school,Mixed
+331,Hampshire,St Mary's Bentworth Church of England Primary School,Church Street,Alton,GU34 5RE,Voluntary aided school,Mixed
+332,Hampshire,St Matthew's Church of England Aided Primary School,Drift Road,Liss,GU33 6BN,Voluntary aided school,Mixed
+333,Hampshire,William Gilpin Church of England Primary School,Pilley Hill,Lymington,SO41 5QG,Voluntary aided school,Mixed
+334,Hampshire,Compton All Saints Church of England Primary School,Compton Street,Winchester,SO21 2AS,Voluntary aided school,Mixed
+335,Hampshire,Dogmersfield Church of England Primary School,Chatter Alley,Hook,RG27 8SS,Voluntary aided school,Mixed
+336,Hampshire,St Martin's East Woodhay Church of England (Aided) Primary School,East End,Newbury,RG20 0AF,Voluntary aided school,Mixed
+337,Hampshire,Charles Kingsley's Church of England Primary School,Glaston Hill Road,Hook,RG27 0LX,Voluntary aided school,Mixed
+338,Hampshire,All Saints Church of England Aided Junior School,Leawood Road,Fleet,GU51 5AJ,Voluntary aided school,Mixed
+339,Hampshire,Hatherden Church of England Primary School,Hatherden,Andover,SP11 0HT,Voluntary aided school,Mixed
+340,Hampshire,Andrews' Endowed Church of England Primary School,92 London Road,Alton,GU34 4EL,Voluntary aided school,Mixed
+341,Hampshire,John Keble Church of England Primary School,Hursley Park Road,Winchester,SO21 2LA,Voluntary aided school,Mixed
+342,Hampshire,St Alban's Church of England Aided Primary School,St Albans Road,Havant,PO9 2JX,Voluntary aided school,Mixed
+343,Hampshire,Lockerley Church of England Endowed Primary School,Butts Green,Romsey,SO51 0JG,Voluntary aided school,Mixed
+344,Hampshire,Longparish Church of England Primary School,Longparish,Andover,SP11 6PB,Voluntary aided school,Mixed
+345,Hampshire,Lymington Church of England Infant School,Avenue Road,Lymington,SO41 9GP,Voluntary aided school,Mixed
+346,Hampshire,St Michael and All Angels CofE Infant School,High Street,Lyndhurst,SO43 7BB,Voluntary aided school,Mixed
+347,Hampshire,Romsey Abbey Church of England Primary School,Church Lane,Romsey,SO51 8EP,Voluntary aided school,Mixed
+348,Hampshire,Silchester Church of England Primary School,School Lane,Reading,RG7 2NJ,Voluntary aided school,Mixed
+349,Hampshire,Smannell and Enham Church of England (Aided) Primary School,Smannell,Andover,SP11 6JJ,Voluntary aided school,Mixed
+350,Hampshire,Swanmore Church of England Aided Primary School,Church Road,Southampton,SO32 2PA,Voluntary aided school,Mixed
+351,Hampshire,Upham Church of England Aided Primary School,Upham Street,Southampton,SO32 1JD,Voluntary aided school,Mixed
+352,Hampshire,Clatford Church of England Primary School,Village Street,Andover,SP11 7RE,Voluntary aided school,Mixed
+353,Hampshire,St Faith's Church of England Primary School,St Faith's Road,Winchester,SO23 9QB,Voluntary aided school,Mixed
+354,Hampshire,"Kimpton, Thruxton and Fyfield Church of England Primary School",Thruxton Hill,Andover,SP11 8NT,Voluntary aided school,Mixed
+355,Hampshire,St Jude's Catholic Primary School,Bishopsfield Road,Fareham,PO14 1ND,Voluntary aided school,Mixed
+356,Hampshire,"St Thomas More's Catholic Primary School, Havant",Hooks Lane,Havant,PO9 3DR,Voluntary aided school,Mixed
+357,Hampshire,Our Lady and St Joseph Catholic Primary School,83a Ramley Road,Lymington,SO41 8GY,Voluntary aided school,Mixed
+358,Hampshire,St Anne's Catholic Primary School,Pinkerton Road,Basingstoke,RG22 6RE,Voluntary aided school,Mixed
+359,Hampshire,St Bede's Catholic Primary School,Popley Way,Basingstoke,RG24 9DX,Voluntary aided school,Mixed
+360,Hampshire,"St Peter's Catholic Primary School, Winchester",Olivers Battery Road North,Winchester,SO22 4JB,Voluntary aided school,Mixed
+361,Hampshire,"St John the Baptist Catholic Primary School, Andover",Floral Way,Andover,SP10 3PF,Voluntary aided school,Mixed
+362,Hampshire,"St Swithun Wells Catholic Primary School, Chandlers Ford",Hillcrest Avenue,Eastleigh,SO53 2JP,Voluntary aided school,Mixed
+363,Hampshire,Western Downland Church of England Aided Primary School,Rockbourne,Fordingbridge,SP6 3NA,Voluntary aided school,Mixed
+364,Hampshire,St Peter's Church of England Aided Junior School,Church Avenue,Farnborough,GU14 7AP,Voluntary aided school,Mixed
+365,Hampshire,St Mark's Church of England Aided Primary School,Queen's Road,Farnborough,GU14 6DU,Voluntary aided school,Mixed
+366,Hampshire,St Patrick's Catholic Primary School,Whitefriars,Farnborough,GU14 7BW,Voluntary aided school,Mixed
+367,Hampshire,St Bernadette's Catholic Primary School,Tile Barn Close,Farnborough,GU14 8LS,Voluntary aided school,Mixed
+368,Hampshire,Alverstoke Church of England Aided Junior School,The Avenue,Gosport,PO12 2JS,Voluntary aided school,Mixed
+369,Hampshire,"St John's, Gosport Church of England Voluntary Aided Primary School",Grove Road,Gosport,PO12 4JH,Voluntary aided school,Mixed
+370,Hampshire,St Mary's Catholic Primary School,Ann's Hill Road,Gosport,PO12 3NB,Voluntary aided school,Mixed
+371,Hampshire,Selborne Church of England Primary School,School Lane,Alton,GU34 3JA,Voluntary aided school,Mixed
+372,Hampshire,St John's Church of England Voluntary Aided Primary School,Kingsmill Road,Basingstoke,RG21 3JU,Voluntary aided school,Mixed
+373,Hampshire,St Francis Church of England Primary School,Pilgrims Close,Eastleigh,SO53 4ST,Voluntary aided school,Mixed
+374,Hampshire,Crookham Church of England Aided Infant School,Gallyhill Road,Fleet,GU52 6PU,Voluntary aided school,Mixed
+375,Hampshire,John Hanson Community School,Floral Way,Andover,SP10 3PB,Community school,Mixed
+376,Hampshire,The Westgate School,Cheriton Road,Winchester,SO22 5AZ,Community school,Mixed
+377,Hampshire,The Toynbee School,Bodycoats Road,Eastleigh,SO53 2PL,Community school,Mixed
+378,Hampshire,Court Moor School,Spring Woods,Fleet,GU52 7RY,Community school,Mixed
+379,Hampshire,The Hamble School,Satchell Lane,Southampton,SO31 4NE,Community school,Mixed
+380,Hampshire,Portchester Community School,White Hart Lane,Fareham,PO16 9BD,Community school,Mixed
+381,Hampshire,Brookfield Community School,Brook Lane,Southampton,SO31 7DU,Community school,Mixed
+382,Hampshire,The Hurst Community College,Brimpton Road,Tadley,RG26 5NL,Community school,Mixed
+383,Hampshire,The Hayling College,Church Road,Hayling Island,PO11 0NU,Foundation school,Mixed
+384,Hampshire,Swanmore College,New Road,Southampton,SO32 2RB,Community school,Mixed
+385,Hampshire,Test Valley School,Roman Road,Stockbridge,SO20 6HA,Community school,Mixed
+386,Hampshire,Aldworth School,Western Way,Basingstoke,RG22 6HA,Community school,Mixed
+387,Hampshire,Crookhorn College,Stakes Hill Road,Waterlooville,PO7 5UD,Foundation school,Mixed
+388,Hampshire,The Clere School,Earlstone Common,Newbury,RG20 9HP,Community school,Mixed
+389,Hampshire,Harrow Way Community School,Harrow Way,Andover,SP10 3RH,Community school,Mixed
+390,Hampshire,Cranbourne,Wessex Close,Basingstoke,RG21 3NP,Community school,Mixed
+391,Hampshire,Yateley School,School Lane,Yateley,GU46 6NW,Community school,Mixed
+392,Hampshire,Calthorpe Park School,Hitches Lane,Fleet,GU51 5JA,Community school,Mixed
+393,Hampshire,Horndean Technology College,Barton Cross,Waterlooville,PO8 9PQ,Community school,Mixed
+394,Hampshire,Henry Beaufort School,East Woodhay Road,Winchester,SO22 6JJ,Community school,Mixed
+395,Hampshire,The Vyne Community School,Vyne Road,Basingstoke,RG21 5PB,Community school,Mixed
+396,Hampshire,Brighton Hill Community School,Brighton Way,Basingstoke,RG22 4HS,Community school,Mixed
+397,Hampshire,Frogmore Community College,Potley Hill Road,Yateley,GU46 6AG,Community school,Mixed
+398,Hampshire,Crestwood Community School,Shakespeare Road,Eastleigh,SO50 4FZ,Community school,Mixed
+399,Hampshire,Cove School,St John's Road,Farnborough,GU14 9RN,Foundation school,Mixed
+400,Hampshire,Fernhill School,Neville Duke Road,Farnborough,GU14 9BY,Community school,Mixed
+401,Hampshire,The Wavell School,Lynchford Road,Farnborough,GU14 6BH,Community school,Mixed
+402,Hampshire,The Henry Cort Community College,Hillson Drive,Fareham,PO15 6PH,Community school,Mixed
+403,Hampshire,Kings' School,Romsey Road,Winchester,SO22 5PN,Community school,Mixed
+404,Hampshire,Park Community School,Middle Park Way,Havant,PO9 4BU,Community school,Mixed
+405,Hampshire,Warblington School,Southleigh Road,Havant,PO9 2RR,Community school,Mixed
+406,Hampshire,Bishop Challoner Catholic Secondary School,St Michael's Road,Basingstoke,RG22 6SR,Voluntary aided school,Mixed
+407,Hampshire,Abbotswood Junior School,Ringwood Road,Southampton,SO40 8EB,Foundation school,Mixed
+408,Hampshire,Calmore Junior School,Calmore Drive,Southampton,SO40 2ZZ,Foundation school,Mixed
+409,Hampshire,Hordle CofE (VA) Primary School,Hordle Lane,Lymington,SO41 0FB,Voluntary aided school,Mixed
+410,Hampshire,Ashley Junior School,Normans Way,New Milton,BH25 5FN,Foundation school,Mixed
+411,Hampshire,"St Peter's Catholic Primary School, Waterlooville",Stakes Hill Road,Waterlooville,PO7 7BP,Voluntary aided school,Mixed
+412,Hampshire,Mill Rythe Infant School,Havant Road,Hayling Island,PO11 0PA,Foundation school,Mixed
+413,Hampshire,Crofton School,Marks Road,Fareham,PO14 2AT,Foundation school,Mixed
+414,Hampshire,Testbourne Community School,Micheldever Road,Whitchurch,RG28 7JF,Foundation school,Mixed
+415,Hampshire,Applemore College,Roman Road,Southampton,SO45 4RQ,Foundation school,Mixed
+416,Hampshire,Purbrook Park School,Park Avenue,Waterlooville,PO7 5DS,Foundation school,Mixed
+417,Hampshire,Osborne School,Athelstan Road,Winchester,SO23 7GA,Community special school,Mixed
+418,Hampshire,Rookwood School,Weyhill Road,Andover,SP10 3AL,Other independent school,Mixed
+419,Hampshire,Sherborne House School,39 Lakewood Road,Eastleigh,SO53 1EU,Other independent school,Mixed
+420,Hampshire,Embley,Embley Park,Romsey,SO51 6ZE,Other independent school,Mixed
+421,Hampshire,St Neot's School,St Neot's Road,Hook,RG27 0PN,Other independent school,Mixed
+422,Hampshire,Farnborough Hill,Farnborough Road,Farnborough,GU14 8AT,Other independent school,Girls
+423,Hampshire,St Nicholas' School,Redfields House,Fleet,GU52 0RF,Other independent school,Girls
+424,Hampshire,Forres Sandle Manor School,Sandle Manor,Fordingbridge,SP6 1NS,Other independent school,Mixed
+425,Hampshire,Cheam School,Headley,Thatcham,RG19 8LD,Other independent school,Mixed
+426,Hampshire,Lord Wandsworth College,Long Sutton,Hook,RG29 1TB,Other independent school,Mixed
+427,Hampshire,Durlston Court School,Becton Lane,New Milton,BH25 7AQ,Other independent school,Mixed
+428,Hampshire,Ballard School,Fernhill Lane,New Milton,BH25 5SU,Other independent school,Mixed
+429,Hampshire,Walhampton School,,Lymington,SO41 5ZG,Other independent school,Mixed
+430,Hampshire,Horris Hill School,Newtown,Newbury,RG20 9DJ,Other independent school,Boys
+431,Hampshire,Bedales School,Church Road,Petersfield,GU32 2DG,Other independent school,Mixed
+432,Hampshire,"Stroud, the King Edward VI Preparatory School",Highwood House,Romsey,SO51 9ZH,Other independent school,Mixed
+433,Hampshire,Winchester College,College Street,Winchester,SO23 9NA,Other independent school,Boys
+434,Hampshire,St Swithun's School,Alresford Road,Winchester,SO21 1HA,Other independent school,Girls
+435,Hampshire,The Pilgrims School,3 The Close,Winchester,SO23 9LT,Other independent school,Boys
+436,Hampshire,Twyford School,High Street,Winchester,SO21 1NW,Other independent school,Mixed
+437,Hampshire,Alton School,Anstey Lane,Alton,GU34 2NG,Other independent school,Mixed
+438,Hampshire,Woodhill Preparatory School,Brook Lane,Botley,SO30 2ER,Other independent school,Mixed
+439,Hampshire,Farleigh School,Red Rice,Andover,SP11 7PW,Other independent school,Mixed
+440,Hampshire,Salesian College,119 Reading Road,Farnborough,GU14 6PA,Other independent school,Mixed
+441,Hampshire,Grey House Preparatory School,Mount Pleasant Road,Hook,RG27 8PW,Other independent school,Mixed
+442,Hampshire,Daneshill School,Stratfield Turgis,Hook,RG27 0AR,Other independent school,Mixed
+443,Hampshire,West Hill Park School,West Hill Park,Fareham,PO14 4BS,Other independent school,Mixed
+444,Hampshire,Princes Mead School,Worthy Park House,Winchester,SO21 1AN,Other independent school,Mixed
+445,Hampshire,Yateley Manor School,51 Reading Road,Yateley,GU46 7UQ,Other independent school,Mixed
+446,Hampshire,HawleyHurst School,Fernhill Road,Camberley,GU17 9HU,Other independent school,Mixed
+447,Hampshire,Boundary Oak School,Wickham Road,Fareham,PO17 5BL,Other independent school,Mixed
+448,Hampshire,Moyles Court School,Moyles Court,Ringwood,BH24 3NF,Other independent school,Mixed
+449,Hampshire,Meoncross School,Burnt House Lane,Fareham,PO14 2EF,Other independent school,Mixed
+450,Hampshire,Southlands School,Vicars Hill,Lymington,SO41 5QB,Other independent special school,Mixed
+451,Hampshire,Hill House School,Rope Hill,Lymington,SO41 8NE,Other independent special school,Mixed
+452,Hampshire,Brockwood Park School,Brockwood Park,Alresford,SO24 0LQ,Other independent school,Mixed
+453,Hampshire,Ditcham Park School,Ditcham Park,Petersfield,GU31 5RN,Other independent school,Mixed
+454,Hampshire,Churcher's College,Ramshill,Petersfield,GU31 4AS,Other independent school,Mixed
+455,Hampshire,St Edward's School,Melchet Court,Romsey,SO51 6ZR,Other independent special school,Boys
+456,Hampshire,Coxlease School,Clay Hill,Lyndhurst,SO43 7DE,Other independent special school,Mixed
+457,Hampshire,Grateley House School,Pond Lane,Andover,SP11 8TA,Other independent special school,Mixed
+458,Hampshire,The Loddon School,Wildmoor Lane,Hook,RG27 0JD,Other independent special school,Mixed
+459,Hampshire,Thorngrove School,The Mount,Newbury,RG20 9PS,Other independent school,Mixed
+460,Hampshire,St Michael's School,Harts Lane,Newbury,RG20 9JW,Other independent school,Mixed
+461,Hampshire,The King's School,Lakesmere House,Eastleigh,SO50 7DB,Other independent school,Mixed
+462,Hampshire,Riverside Community Special School,Scratchface Lane,Waterlooville,PO7 5QD,Community special school,Mixed
+463,Hampshire,Lakeside School,Winchester Road,Eastleigh,SO53 2DW,Community special school,Boys
+464,Hampshire,Norman Gate School,Vigo Road,Andover,SP10 1JZ,Community special school,Mixed
+465,Hampshire,Maple Ridge School,Maple Crescent,Basingstoke,RG21 5SX,Community special school,Mixed
+466,Hampshire,Heathfield Special School,Oldbury Way,Fareham,PO14 3BN,Community special school,Mixed
+467,Hampshire,Icknield School,River Way,Andover,SP11 6LT,Community special school,Mixed
+468,Hampshire,Rachel Madocks School,Eagle Avenue,Waterlooville,PO8 9XP,Community special school,Mixed
+469,Hampshire,Limington House School,St Andrew's Road,Basingstoke,RG22 6PS,Community special school,Mixed
+470,Hampshire,Baycroft School,Gosport Road,Fareham,PO14 2AE,Community special school,Mixed
+471,Hampshire,St Francis Special School,Patchway Drive,Fareham,PO14 3BN,Community special school,Mixed
+472,Hampshire,The Waterloo School,Warfield Avenue,Waterlooville,PO7 7JJ,Community special school,Mixed
+473,Hampshire,Saxon Wood School,Barron Place,Basingstoke,RG24 9NH,Community special school,Mixed
+474,Hampshire,Wolverdene Special School,22 Love Lane,Andover,SP10 2AF,Community special school,Mixed
+475,Hampshire,Treloar School,Powell Drive,Alton,GU34 4GL,Non-maintained special school,Mixed
+476,Hampshire,Oak Lodge School,Roman Road,Southampton,SO45 4RQ,Community special school,Mixed
+477,Hampshire,Glenwood School,Washington Road,Emsworth,PO10 7NN,Community special school,Mixed
+478,Hampshire,Samuel Cody Specialist Sports College,Ballantyne Road,Farnborough,GU14 8SN,Community special school,Mixed
+479,Hampshire,The Mark Way School,Batchelors Barn Road,Andover,SP10 1HR,Community special school,Mixed
+480,Hampshire,Shepherds Down Special School,Shepherds Lane,Winchester,SO21 2AJ,Community special school,Mixed
+481,Hampshire,Wellstead Primary School,Wellstead Way,Southampton,SO30 2LE,Community school,Mixed
+482,Hampshire,Kingscourt School,Catherington House,Waterlooville,PO8 9NJ,Other independent school,Mixed
+483,Hampshire,Mill Hill Primary School,Mill Road,Waterlooville,PO7 7DB,Community school,Mixed
+484,Hampshire,Basingstoke College of Technology,Worting Road,Basingstoke,RG21 8TN,Further education,Mixed
+485,Hampshire,Farnborough College of Technology,Boundary Road,Farnborough,GU14 6SB,Further education,Mixed
+486,Hampshire,Brockenhurst College,Lyndhurst Road,Brockenhurst,SO42 7ZE,Further education,Mixed
+487,Hampshire,Alton College,Old Odiham Road,Alton,GU34 2LX,Further education,Mixed
+488,Hampshire,Eastleigh College,Chestnut Avenue,Eastleigh,SO50 5FS,Further education,Mixed
+489,Hampshire,Fareham College,Bishopsfield Road,Fareham,PO14 1NH,Further education,Mixed
+490,Hampshire,Havant and South Downs College,College Road,Waterlooville,PO7 8AA,Further education,Mixed
+491,Hampshire,Sparsholt College Hampshire,Westley Lane,Winchester,SO21 2NF,Further education,Mixed
+492,Hampshire,Totton College (Part of Nacro),Water Lane,Southampton,SO40 3ZX,Further education,Mixed
+493,Hampshire,Barton Peveril Sixth Form College,Chestnut Avenue,Eastleigh,SO50 5ZA,Further education,Mixed
+494,Hampshire,Peter Symonds College,Owens Road,Winchester,SO22 6RX,Further education,Mixed
+495,Hampshire,Hollywater School,Mill Chase Road,Bordon,GU35 0HA,Community special school,Mixed
+496,Hampshire,Holbrook Primary School,Wych Lane,Gosport,PO13 0JN,Community school,Mixed
+497,Hampshire,Bedenham Primary School,Bridgemary Avenue,Gosport,PO13 0XT,Community school,Mixed
+498,Hampshire,Whiteley Primary School,Gull Coppice,Fareham,PO15 7LA,Community school,Mixed
+499,Hampshire,St Mark's Church of England Primary School,Danebury Road,Basingstoke,RG22 4US,Voluntary aided school,Mixed
+500,Hampshire,Burnham Copse Primary School,New Church Road,Tadley,RG26 4HN,Community school,Mixed
+501,Hampshire,Tadley Court School,Tadley Common Road,Basingstoke,RG26 3TB,Other independent special school,Mixed
+502,Hampshire,Henry Tyndale School,Ship Lane,Farnborough,GU14 8BX,Community special school,Mixed
+503,Hampshire,Knightwood Primary School,Bell Flower Way,Eastleigh,SO53 4HW,Community school,Mixed
+504,Hampshire,Great Binfields Primary School,Binfields Farm Lane,Basingstoke,RG24 8AJ,Community school,Mixed
+505,Hampshire,Elvetham Heath Primary School,The Key,Fleet,GU51 1DP,Community school,Mixed
+506,Hampshire,Cherrywood Community Primary School,Mayfield Road,Farnborough,GU14 8LH,Community school,Mixed
+507,Hampshire,Micheldever CofE Primary School,Church Street,Winchester,SO21 3DB,Voluntary controlled school,Mixed
+508,Hampshire,Sharps Copse Primary and Nursery School,Prospect Lane,Havant,PO9 5PE,Community school,Mixed
+509,Hampshire,Prospect School,Freeley Road,Havant,PO9 4AQ,Community special school,Boys
+510,Hampshire,Grantham Farm Montessori School,Inhurst Lane,Tadley,RG26 5JS,Other independent school,Mixed
+511,Hampshire,Chiltern Primary School,Chiltern Way,Basingstoke,RG22 5BB,Community school,Mixed
+512,Hampshire,Cadland Primary School,Whitefield Road,Holbury,SO45 2HW,Community school,Mixed
+513,Hampshire,Sherfield School,Sherfield-on-Loddon,Hook,RG27 0HU,Other independent school,Mixed
+514,Hampshire,Romsey Primary School,Mercer Way,Romsey,SO51 7PH,Community school,Mixed
+515,Hampshire,Hillcrest Jubilee School,84-86 Jubilee Road,Waterlooville,PO7 7RE,Other independent special school,Mixed
+516,Hampshire,Fair Ways School,New Road,Southampton,SO31 7HE,Other independent school,Mixed
+517,Hampshire,Woodcroft Primary,37 Woodcroft Lane,Waterlooville,PO8 9QD,Community school,Mixed
+518,Hampshire,Forest Park School,Ringwood Road,Southampton,SO40 8DZ,Community special school,Mixed
+519,Hampshire,Cranford Park Primary,Cranford Park Drive,Yateley,GU46 6LB,Voluntary controlled school,Mixed
+520,Hampshire,Endeavour Primary School,East Anton Farm Road,Andover,SP11 6RD,Community school,Mixed
+521,Hampshire,Barncroft Primary School,Park Lane,Havant,PO9 3HN,Community school,Mixed
+522,Hampshire,New Forest Small School,1 Southampton Road,Lyndhurst,SO43 7BU,Other independent school,Mixed
+523,Hampshire,Havant Academy,Wakefords Way,Havant,PO9 5JD,Academy sponsor led,Mixed
+524,Hampshire,Pilgrims' Cross CofE Aided Primary School,Picket Twenty Way,Andover,SP11 6TY,Voluntary aided school,Mixed
+525,Hampshire,The Priory Primary School,Pamber End,Tadley,RG26 5QD,Academy converter,Mixed
+526,Hampshire,The Mountbatten School,Whitenap Lane,Romsey,SO51 5SY,Academy converter,Mixed
+527,Hampshire,Bohunt School,Longmoor Road,Liphook,GU30 7NY,Academy converter,Mixed
+528,Hampshire,The Arnewood School,Gore Road,New Milton,BH25 6RS,Academy converter,Mixed
+529,Hampshire,Wildern School,Wildern Lane,Southampton,SO30 4EJ,Academy converter,Mixed
+530,Hampshire,Ringwood School Academy,Parsonage Barn Lane,Ringwood,BH24 1SE,Academy converter,Mixed
+531,Hampshire,Thornden School,Winchester Road,Eastleigh,SO53 2DW,Academy converter,Mixed
+532,Hampshire,The Burgate School and Sixth Form,Salisbury Road,Fordingbridge,SP6 1EZ,Academy converter,Mixed
+533,Hampshire,The Petersfield School,Cranford Road,Petersfield,GU32 3LU,Academy converter,Mixed
+534,Hampshire,Noadswood School,North Road,Southampton,SO45 4ZF,Academy converter,Mixed
+535,Hampshire,Perins School,Pound Hill,Alresford,SO24 9BS,Academy converter,Mixed
+536,Hampshire,Priestlands School,North Street,Lymington,SO41 8FZ,Academy converter,Mixed
+537,Hampshire,Hounsdown School,Jacobs Gutter Lane,Southampton,SO40 9FT,Academy converter,Mixed
+538,Hampshire,The Romsey School,Greatbridge Road,Romsey,SO51 8ZB,Academy converter,Mixed
+539,Hampshire,New Forest School,Fawley Business Centre,Fawley,SO45 1FJ,Other independent special school,Mixed
+540,Hampshire,Testwood School,Testwood Lane,Southampton,SO40 3ZW,Academy converter,Mixed
+541,Hampshire,Oaklands Catholic School,Stakes Hill Road,Waterlooville,PO7 7BW,Academy converter,Mixed
+542,Hampshire,St Anthony's Catholic Primary School,Primate Road,Fareham,PO14 4RP,Academy converter,Mixed
+543,Hampshire,St Joseph's Catholic Primary School,Bridge Road,Aldershot,GU11 3DD,Academy converter,Mixed
+544,Hampshire,Amery Hill School,Amery Hill,Alton,GU34 2BZ,Academy converter,Mixed
+545,Hampshire,Cams Hill School,Shearwater Avenue,Fareham,PO16 8AH,Academy converter,Mixed
+546,Hampshire,Dove House School,Sutton Road,Basingstoke,RG21 5SU,Academy special converter,Mixed
+547,Hampshire,Bransgore Church of England Primary School,Ringwood Road,Christchurch,BH23 8JH,Academy converter,Mixed
+548,Hampshire,Bay House School,Gomer Lane,Gosport,PO12 2QP,Academy converter,Mixed
+549,Hampshire,The Cowplain School,Hart Plain Avenue,Waterlooville,PO8 8RY,Academy converter,Mixed
+550,Hampshire,Robert May's School,West Street,Hook,RG29 1NA,Academy converter,Mixed
+551,Hampshire,Wellington Community Primary School,Alexandra Road,Aldershot,GU11 1QJ,Community school,Mixed
+552,Hampshire,Wyvern College,Botley Road,Eastleigh,SO50 7AN,Academy converter,Mixed
+553,Hampshire,Manor Church of England Infant School,Teachers Way,Southampton,SO45 2QG,Voluntary controlled school,Mixed
+554,Hampshire,The Costello School,Crossborough Hill,Basingstoke,RG21 4AL,Academy converter,Mixed
+555,Hampshire,Bridgemary School,Wych Lane,Gosport,PO13 0JN,Academy sponsor led,Mixed
+556,Hampshire,St Columba Church of England Primary Academy,Tewkesbury Avenue,Fareham,PO15 6LL,Academy sponsor led,Mixed
+557,Hampshire,The New Forest Academy,Long Lane,Southampton,SO45 2PA,Academy sponsor led,Mixed
+558,Hampshire,Hook-With-Warsash Church of England Academy,Church Road,Southampton,SO31 9GF,Academy converter,Mixed
+559,Hampshire,Eggar's School,London Road,Alton,GU34 4EQ,Academy converter,Mixed
+560,Hampshire,Winton Community Academy,London Road,Andover,SP10 2PS,Academy sponsor led,Mixed
+561,Hampshire,Front Lawn Primary Academy,Broadmere Avenue,Havant,PO9 5HX,Academy sponsor led,Mixed
+562,Hampshire,Cornerstone CofE (VA) Primary School,Bader Way,Fareham,PO15 7JH,Voluntary aided school,Mixed
+563,Hampshire,The Holme Church of England Primary School,Openfields,Headley,GU35 8PQ,Academy sponsor led,Mixed
+564,Hampshire,Frogmore Junior School,Green Lane,Camberley,GU17 0NY,Academy sponsor led,Mixed
+565,Hampshire,Clay Hill School,Clay Hill,Lyndhurst,SO43 7DE,Other independent special school,Mixed
+566,Hampshire,Fareham Academy,St Anne's Grove,Fareham,PO14 1JJ,Academy converter,Mixed
+567,Hampshire,Milford-on-Sea Church of England Primary School,Lymington Road,Lymington,SO41 0RF,Academy converter,Mixed
+568,Hampshire,Oakmoor School,Budds Lane,Bordon,GU35 0ER,Academy sponsor led,Mixed
+569,Hampshire,Berewood Primary School,Kentidge Way,Waterlooville,PO7 3BE,Academy sponsor led,Mixed
+570,Hampshire,The Cambridge Primary School,Queens Avenue,Aldershot,GU11 4AA,Academy sponsor led,Mixed
+571,Hampshire,LWS Academy,Montefiore Drive,Southampton,SO31 7NL,Academy special converter,Boys
+572,Hampshire,The Coppice Spring Academy,Pack Lane,Basingstoke,RG22 5TH,Academy special sponsor led,Mixed
+573,Hampshire,Fawley Infant School,School Road,Southampton,SO45 1EA,Academy converter,Mixed
+574,Hampshire,Blackfield Primary School,Hampton Lane,Southampton,SO45 1XA,Academy converter,Mixed
+575,Hampshire,Brune Park Community School,Military Road,Gosport,PO12 3BU,Academy sponsor led,Mixed
+576,Hampshire,Gomer Junior School,Pyrford Close,Gosport,PO12 2RP,Academy converter,Mixed
+577,Hampshire,Releasing Potential,7 Kingscroft Court,Havant,PO9 1LS,Other independent school,Mixed
+578,Hampshire,Sun Hill Junior School,Sun Lane,Alresford,SO24 9NB,Academy sponsor led,Mixed
+579,Hampshire,Farnborough Grange Nursery & Infant Community School,Moor Road,Farnborough,GU14 8HW,Academy converter,Mixed
+580,Hampshire,The Sixth Form College Farnborough,Prospect Avenue,Farnborough,GU14 8JX,Academy 16-19 converter,Mixed
+581,Hampshire,Everest Community Academy,Oxford Way,Basingstoke,RG24 9UP,Academy sponsor led,Mixed
+582,Hampshire,Queen Mary's College,Cliddesden Road,Basingstoke,RG21 3HF,Academy 16-19 converter,Mixed
+583,Hampshire,St Vincent College,Mill Lane,Gosport,PO12 4QA,Academy 16-19 converter,Mixed
+584,Hampshire,The Green Room School Kingsley,1 Old Park Farm,Bordon,GU35 9LU,Other independent special school,Mixed
+585,Hampshire,Bordon Junior School,Budds Lane,Bordon,GU35 0JB,Academy converter,Mixed
+586,Hampshire,Rowner Junior,Tichborne Way,Gosport,PO13 0BN,Academy converter,Mixed
+587,Hampshire,Kingsgate School,239 West Street,Fareham,PO16 0HZ,Other independent special school,Mixed
+588,Hampshire,Oakfield Primary School,Sylvia Crescent,Southampton,SO40 3LN,Academy sponsor led,Mixed
+589,Hampshire,Boorley Park,Boorley Park Primary School,Botley,SO32 2SH,Free schools,Mixed
+590,Hampshire,Fernhill Primary School,Field Road,Farnborough,GU14 9FX,Academy converter,Mixed
+591,Hampshire,St Anne's Catholic Primary School,Pinkerton Road,Basingstoke,RG22 6RE,Academy sponsor led,Mixed
+592,Hampshire,Compass Community School Hampshire,Kings Lodge,Alton,GU34 5NA,Other independent special school,Boys
+593,Hampshire,St Columba CE Primary School,Tewkesbury Avenue,Fareham,PO15 6LL,Academy sponsor led,Mixed

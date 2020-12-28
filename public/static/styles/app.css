@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
+
+.header {
+    width: 70%;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.school-data, .edit-data {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.school-data-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.edit-data-table {
+    width: 40%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr:first-child {
+    background-color: #efefef;
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid #888;
+    padding: 0.5rem;
+    text-align: center;
+    text-transform: capitalize;
+} 
